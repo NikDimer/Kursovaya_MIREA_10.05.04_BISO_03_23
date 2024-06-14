@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ClassCrypt">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAACAQAEIAAAAgQAAAA=</HashCode>
+      <FileName>C:\Users\Дмитрий\Downloads\cpp__coursePaper2024-master\cpp__coursePaper2024-master\09 ClassCrypt\ClassCrypt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassEdit">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAkBEAECIAAAAAAAAAAAAAQQAQACAAAIA=</HashCode>
+      <FileName>C:\Users\Дмитрий\Downloads\cpp__coursePaper2024-master\cpp__coursePaper2024-master\01 EditData\ClassEdit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassFileWraper">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABBAAAAEAACAABACIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Дмитрий\Downloads\cpp__coursePaper2024-master\cpp__coursePaper2024-master\07 ClassFileWraper\ClassFileWraper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassMenu">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAgACCAAAAIAEAAqAAIAAAAAAAAABABgAAAgQAQA=</HashCode>
+      <FileName>C:\Users\Дмитрий\Downloads\cpp__coursePaper2024-master\cpp__coursePaper2024-master\02 ClassMenu\ClassMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamsResultsClass">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAACAAQAAAAAABAAEAAQBAACAAA=</HashCode>
+      <FileName>C:\Users\Дмитрий\Downloads\cpp__coursePaper2024-master\cpp__coursePaper2024-master\03 ExamsResultsClass\ExamsResultsClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentClass">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAQAAEAAAAAACAIMBBABQAHQAAAQoAACAAIAA=</HashCode>
+      <FileName>C:\Users\Дмитрий\Downloads\cpp__coursePaper2024-master\cpp__coursePaper2024-master\05 Class Student\StudentClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ExamsRecords">
+    <Position X="13.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAwAA=</HashCode>
+      <FileName>C:\Users\Дмитрий\Downloads\cpp__coursePaper2024-master\cpp__coursePaper2024-master\03 ExamsResultsClass\ExamsResultsClass.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="StudentNode">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAAAIgAAAAAAAAAQAAAAQFBAEAAAEgAAAAAIAAAA=</HashCode>
+      <FileName>C:\Users\Дмитрий\Downloads\cpp__coursePaper2024-master\cpp__coursePaper2024-master\05 Class Student\StudentNode.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
